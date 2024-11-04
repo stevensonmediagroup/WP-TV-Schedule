@@ -1,0 +1,21 @@
+.tv-guide-schedule {
+    font-family: Arial, sans-serif;
+    margin: 20px 0;
+}
+.tv-guide-schedule h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+.tv-guide-schedule ul {
+    list-style-type: none;
+    padding: 0;
+}
+.tv-guide-schedule li {
+    margin-bottom: 15px;
+}
+.tv-guide-show-image img {
+    width: 100px;
+    height: auto;
+    margin-right: 10px;
+    float: left;
+}
